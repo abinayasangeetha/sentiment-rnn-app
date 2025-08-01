@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore PyTorch model files
+*.pth
+
+# Ignore Jupyter notebooks if not needed
+*.ipynb
+
+# Ignore other cache or temp files
+__pycache__/
+*.pyc

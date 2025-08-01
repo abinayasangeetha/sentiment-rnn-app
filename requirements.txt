@@ -1,0 +1,5 @@
+torchtext
+streamlit
+nltk==3.8.1
+torch==2.0.1
+streamlit
